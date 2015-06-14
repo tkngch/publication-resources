@@ -28,7 +28,6 @@ plot <- ggplot(d, aes(x=score, y=gdp, color=year)) +
     ylab("Per-capita GDP (USD)") +
     theme(legend.title=element_blank())
 
-# ggsave("./figure.png", plot, width=6, height=5.0)
 dev.new(width=6, height=5.0)
 print(plot)
 
