@@ -1,10 +1,14 @@
 #!/usr/bin/env Rscript
 
+# This script reproduces Figure 3 in the article and also runs the main analysis. For more information, please visit https://github.com/tkngch/publication-resources
+
+# The relevant article is:
+# Noguchi, T., Stewart, N., Olivola, C. Y., Moat, H. S., & Preis, T. (2014). Characterizing the time-perspective of nations with search engine query data. PLoS ONE, 9, e95209. doi: 10.1371/journal.pone.0095209
+
 
 library(dplyr)
 library(tidyr)
 library(ggplot2)
-library(scales)
 library(lme4)
 
 
@@ -28,7 +32,7 @@ plot <- ggplot(d, aes(x=score, y=gdp, color=year)) +
     ylab("Per-capita GDP (USD)") +
     theme(legend.title=element_blank())
 
-dev.new(width=6, height=5.0)
+dev.new(width=6, height=5)
 print(plot)
 
 
