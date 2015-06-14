@@ -1,5 +1,6 @@
 # Publication Resources
-Here, you can find the data, the scripts and, where the license allows, the published articles.
+
+Here, you can find the data, the scripts and, where the license allows, the published articles. For the full list of publications, please see my Google scholar page: https://scholar.google.co.uk/citations?user=d2cJOkgAAAAJ&hl=en
 
 
 ## License
