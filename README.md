@@ -1,5 +1,5 @@
 # Publication Resources
-Here, you can find the data, the script and, if the license allows, the published article.
+Here, you can find the data, the scripts and, where the license allows, the published articles.
 
 
 ## License
