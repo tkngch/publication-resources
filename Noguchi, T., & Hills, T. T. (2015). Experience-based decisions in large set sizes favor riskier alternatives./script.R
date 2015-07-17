@@ -5,8 +5,9 @@
 # https://github.com/tkngch/publication-resources
 
 # The relevant article is:
-# Noguchi, T., & Hills, T. T. (in press). Experience-based decisions in large
-# set sizes favor riskier alternatives. Journal of Behavioral Decision Making.
+# Noguchi, T., & Hills, T. T. (2015). Experience-based decisions in large set
+# sizes favor riskier alternatives. Journal of Behavioral Decision Making.
+# doi: 10.1002/bdm.1893
 
 
 library(RSQLite)
