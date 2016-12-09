@@ -2,7 +2,9 @@
 
 Here, you can find the data, the scripts and, where the license allows, the published articles for the studies listed below.
 
-- Noguchi, T., & Hills, T. T. (2015). Experience-based decisions in large set sizes favor riskier alternatives. *Journal of Behavioral Decision Making*. doi: 10.1002/bdm.1893
+- Noguchi, T., & Hills, T. T. (2015). Description-experience gap in choice deferral. *Decision, 3,* 54-61. doi: 10.1037/dec0000044
+
+- Noguchi, T., & Hills, T. T. (2015). Experience-based decisions in large set sizes favor riskier alternatives. *Journal of Behavioral Decision Making, 29,* 489-498. doi: 10.1002/bdm.1893
 
 - Noguchi, T., & Stewart, N. (2014). In the attraction, compromise, and similarity effects, alternatives are repeatedly compared in pairs on single dimensions. *Cognition, 132,* 44-56. doi: 10.1016/j.cognition.2014.03.006
 
