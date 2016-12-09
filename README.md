@@ -2,7 +2,7 @@
 
 Here, you can find the data, the scripts and, where the license allows, the published articles for the studies listed below.
 
-- Noguchi, T., & Hills, T. T. (2015). Description-experience gap in choice deferral. *Decision, 3,* 54-61. doi: 10.1037/dec0000044
+- Noguchi, T., & Hills, T. T. (2016). Description-experience gap in choice deferral. *Decision, 3,* 54-61. doi: 10.1037/dec0000044
 
 - Noguchi, T., & Hills, T. T. (2015). Experience-based decisions in large set sizes favor riskier alternatives. *Journal of Behavioral Decision Making, 29,* 489-498. doi: 10.1002/bdm.1893
 
